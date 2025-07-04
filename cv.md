@@ -1,4 +1,4 @@
-dir## [rsschool-cv](https://rockabil.github.io/rsschool-cv/cv)
+## [rsschool-cv](https://rockabil.github.io/rsschool-cv/cv)
 
 # Valery Strokach
 
