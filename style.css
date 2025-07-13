@@ -117,3 +117,20 @@ h1 {
 .link:hover {
   color: #515251;
 }
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #374127;
+    line-height: 30px;
+    padding: 20px 30px;
+}
+.footer a {
+  text-decoration: none;
+}
+.footer__github {
+    position: relative;
+    padding-left: 40px;
+}
