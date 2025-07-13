@@ -90,11 +90,15 @@ h1 {
   letter-spacing: 1px;
   font-style: italic ;
   color: #374127;
+}
+.section-list {
+  list-style: none;
+}
+.section-item {
   position: relative;
   padding-left: 30px;
 }
-
-  .section-title::before {
+  .section-item::before {
   content: "";
   position: absolute;
   top: 8px;
