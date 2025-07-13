@@ -41,7 +41,10 @@ a {
 }
 a:hover {
   color: #515251;
-}       
+}   
+h1 {
+  text-transform: uppercase;
+}    
 .container {
   max-width: 1440px;
   margin: 0 auto;
