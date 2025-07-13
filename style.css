@@ -7,12 +7,16 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-family: 'Roboto';
   border: 1px solid red;
   margin: 0px;
   padding: 0px;
   min-height: 100vh;
-}
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #374127;
+  background-color: beige;
 html {
   scroll-behavior: smooth;
 }
@@ -33,6 +37,7 @@ html {
 }
 a {
   color: #808000;
+  font-size: 18px;
 }
 a:hover {
   color: #515251;
@@ -62,5 +67,32 @@ a:hover {
 .section-item a:hover {
   color: #515251;
 }     
-                                           
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+  padding-left: 30px;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+.section-title {
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  font-style: italic ;
+  color: #374127;
+}
+.link {
+  text-decoration: none;
+  color: #808000;
+  transition: color 0.5s;
+}
 
+.link:hover {
+  color: #515251;
+}
