@@ -25,8 +25,16 @@ I aim to become a skilled Web developper/
 ## **_Education:_**
 
 - _University_ Brest State Technical University, World Economy and International Economic Relations  
-- _Courses_:
 
+- _Courses_:
   - CodeAcademy Learn HTML  
   - CodeAcademy Learn CSS  
-  - JS/FE Pre-School 2025Q2 (Rolling Scopes)
+  - JS/FE Pre-School 2025Q2 (Rolling Scopes)  
+
+## **_Languages:_**
+
+- English - A2
+- French - A1
+- Polish - B1
+- Russian - fluently
+- Belarusian - fluently
