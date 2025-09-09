@@ -33,8 +33,8 @@ I aim to become a skilled Web developper/
 
 ## **_Languages:_**
 
-- English - A2
-- French - A1
-- Polish - B1
-- Russian - fluently
-- Belarusian - fluently
+- English - A2  
+- French - A1  
+- Polish - B1  
+- Russian - fluently  
+- Belarusian - fluently  
