@@ -21,3 +21,12 @@ I aim to become a skilled Web developper/
 - Git  
 - VS Code, Figma  
 - Adobe Photoshop, Adobe Illustrator  
+
+## **_Education:_**
+
+- _University_ Brest State Technical University, World Economy and International Economic Relations  
+- _Courses_:
+
+  - CodeAcademy Learn HTML  
+  - CodeAcademy Learn CSS  
+  - JS/FE Pre-School 2025Q2 (Rolling Scopes)
