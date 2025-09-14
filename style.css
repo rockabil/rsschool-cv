@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  min-height: 100vh;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #374127;
+  background-color: beige;
+}
+html {
+  scroll-behavior: smooth;
+}
+@font-face {
+  font-family: Roboto;
+  src: url("assets/fonts/Roboto-Regular.ttf");
+  font-weight: 300;
+}     
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-Light.ttf");
+  font-weight: 100;
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("assets/fonts/Roboto-BoldItalic.ttf");
+  font-weight: 600;
+}
+a {
+  color: #808000;
+  font-size: 18px;
+}
+a:hover {
+  color: #515251;
+}   
