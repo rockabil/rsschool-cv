@@ -25,7 +25,7 @@ html {
   font-family: Roboto;
   src: url("assets/fonts/Roboto-Regular.ttf");
   font-weight: 300;
-}     
+}
 @font-face {
   font-family: "Roboto";
   src: url("assets/fonts/Roboto-Light.ttf");
@@ -43,7 +43,7 @@ a {
 }
 a:hover {
   color: #515251;
-}   
+}
 h1 {
   text-transform: uppercase;
 }
@@ -53,14 +53,14 @@ h1 {
 .container {
   max-width: 1440px;
   margin: 0 auto;
-}       
+}
 .nav-list {
   display: flex;
   justify-content: flex-end;
   align-items: center;
   list-style: none;
   text-decoration: none
-} 
+}
 @media (max-width: 768px) {
   .container {
     margin: 0;
@@ -70,15 +70,14 @@ h1 {
      }
   .nav-list {
     flex-direction: column;
-    
   }
 }
 .nav-link {
   padding: 0 20px;
-  line-height: 50px; 
+  line-height: 50px;
   transition: 0.3s;
   text-decoration: none;
-} 
+}
 .section-item a {
   color: #808000;
   text-decoration: none;
@@ -86,7 +85,7 @@ h1 {
 }
 .section-item a:hover {
   color: #515251;
-}     
+}
 .main-container {
   display: flex;
   flex-wrap: wrap;
@@ -131,11 +130,9 @@ h1 {
   color: #808000;
   transition: color 0.5s;
 }
-
 .link:hover {
   color: #515251;
 }
-
 .footer-container {
     display: flex;
     flex-wrap: wrap;
