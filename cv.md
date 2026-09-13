@@ -22,6 +22,25 @@ I aim to become a skilled Web developper/
 - VS Code, Figma  
 - Adobe Photoshop, Adobe Illustrator  
 
+## **_Sample of Code_**
+
+```
+function sum (numbers) {
+  if (numbers.length === 0) {
+    return 0;
+  } else {
+    return numbers.reduce(function(a, b) {
+      return a + b;
+    }, 0);
+  }    
+}
+```
+## **_Projects_**
+
+- [StarTrek API](https://startrek-search87.netlify.app/)  
+- [RS Tandem](https://rs-tandem.netlify.app/) - team work
+- [Swagger Editor](https://swagger-editor-app.onrender.com/) - team work
+
 ## **_Education:_**
 
 - _University_ Brest State Technical University, World Economy and International Economic Relations  
