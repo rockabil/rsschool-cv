@@ -43,7 +43,7 @@ function sum (numbers) {
 
 ## **_Education:_**
 
-- _University_ Brest State Technical University, World Economy and International Economic Relations  
+- _University_ Brest State Technical University, Global Economy and International Economic Relations  
 
 - _Courses_:
   - CodeAcademy Learn HTML  
