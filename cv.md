@@ -13,7 +13,7 @@
 
 I am a Warehouse Logistics Manager with wide knowledge in Automotive Sector, Hardware and Software, FrontEnd Development, History, Languages etc.  
 My logo is learn something new everytime and everywhere. I'm good team worker with strong communication abilities. I have talent to quick learn and apply new knowledges.
-I aim to become a skilled Web developper/  
+I aim to become a skilled Web developper. 
 
 ## **_Skills:_**
 
